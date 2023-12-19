@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  text-align: center;
+}
+
+.button-a {
+  background-color: transparent;
+  border: transparent;
+  color: #7b8794;
+  font-size: 15px;
+  padding-right: 20px;
+}
+.button-active-tab-btn {
+  color: #2563eb;
+  font-size: 20px;
+  padding-right: 20px;
+  background-color: transparent;
+  border: transparent;
+}
